@@ -31,17 +31,17 @@ td{
     border-collapse: collapse ; 
 }
 .riga1{
-    background-color: blue;
+    background-color: lightslategray ;
 }
 
 .riga2{
-    background-color: aqua;
+    background-color: aquamarine;
 }
 .riga3{
     background-color: aliceblue;
 }
 .riga4{
-    background-color: aqua;
+    background-color: aquamarine;
 }
 footer{
     font-size: small;
