@@ -14,3 +14,22 @@ section{
 ul{
     font-size: small;
 }
+
+table{
+    font-size: small;
+     border-collapse: collapse;
+width: 100%;
+    }
+
+th, td{
+    border: 1px solid black;
+ border-collapse: collapse ;
+    
+
+}
+
+footer{
+    font-size: small;
+   
+     
+}
