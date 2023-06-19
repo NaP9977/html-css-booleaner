@@ -10,7 +10,13 @@ p{
 }
 section{
     font-size: small;
+    
 }
+mark{
+    background-color: yellow;
+    color: black;
+}
+
 ul{
     font-size: small;
 }
