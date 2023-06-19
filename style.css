@@ -21,15 +21,30 @@ table{
 width: 100%;
     }
 
-th, td{
+th{
     border: 1px solid black;
  border-collapse: collapse ;
-    
+    }
 
+td{
+    border: 1px solid black;
+    border-collapse: collapse ; 
+}
+.riga1{
+    background-color: blue;
 }
 
+.riga2{
+    background-color: aqua;
+}
+.riga3{
+    background-color: aliceblue;
+}
+.riga4{
+    background-color: aqua;
+}
 footer{
     font-size: small;
-   
+   text-align: center;
      
 }
